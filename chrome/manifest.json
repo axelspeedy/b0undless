@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "COCC Redirect",
   "version": "1.0",
   "description": "Redirects cocc.edu to 42.zip",
