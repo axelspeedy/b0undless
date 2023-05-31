@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "COCC Redirect",
+  "version": "1.0",
+  "description": "Redirects cocc.edu to 42.zip",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"]
+}
